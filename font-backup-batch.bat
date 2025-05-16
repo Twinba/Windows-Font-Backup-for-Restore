@@ -118,5 +118,5 @@ echo   %userBackup%
 echo   %systemBackup%
 echo È stato creato anche uno script per reinstallare i font UTENTE.
 echo.
-echo Premere un tasto per uscire...
+echo Premere un tasto per uscire.....
 pause > nul
